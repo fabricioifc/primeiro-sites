@@ -1,3 +1,3 @@
 # primeiro-sites
 
-Fabricio Bizottos
+Fabricio Bizotto
